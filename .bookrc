@@ -7,5 +7,6 @@
   },
   "name": "Twenty Thousand Leagues Under the Sea",
   "type": "text",
-  "has_page_numbers": true
+  "has_page_numbers": true,
+  "book_id": 687
 }
